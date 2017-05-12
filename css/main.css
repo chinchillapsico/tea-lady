@@ -1,7 +1,8 @@
 /* Escribe acá tus estilos*/
 body{
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Petit Formal Script', cursive;
     background-image: url(./img/t.jpg);
     color: #FFEBEE;
+    text-align: center
 
   }
