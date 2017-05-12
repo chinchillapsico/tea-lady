@@ -1,1 +1,7 @@
 /* Escribe acá tus estilos*/
+body{
+	font-family: 'Amatic SC', cursive;
+    background-image: url(./img/t.jpg);
+    color: #FFEBEE;
+
+  }
